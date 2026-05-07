@@ -10,6 +10,7 @@ I build web apps, handle testing, and do security — all in one. Currently the 
 | **PISL Infra** | Full-stack testing framework + k6 SVG dashboards.                     | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/pisl)                 | NA     | Grafana, K6      |
 | **Cucumber**   | Cucumber step generator for VS Code — from feature file to steps.     | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/seleniumcucumber)     | 8000+  | TS               |
 | **Veloria**    | Accessible, themeable React UI components — free to use in react. | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/veloria)              | 2,100+ | React, TS        |
+| **Assignmate** | Just upload your handwriting and generate your assignment with AI. | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/assignmate) | 200+   | Next.js, Node.js |
 
 ## Experience
 
@@ -53,4 +54,4 @@ Sole QA across 7 teams → zero complaints. UI/API automation → 50% faster tes
 
 📞 [7606939833](tel:7606939833)
 <br>
-📧 [gyanaprakashkhandual@gmail.com](mailto:gyanaprakashkhandual@gmail.com)
+📧 [gyanaprakashkhandual@gmail.com](mailto:gyanaprakashkhnadual@gmail.com)
