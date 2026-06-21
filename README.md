@@ -1,6 +1,6 @@
 ## Overview
 
-I build web apps, handle testing, and do security — all in one. Currently the sole SDET across 7 teams at Avidus Interactive. I ship AI tools, VS Code extensions, and production apps, and run pen testing and security checks on everything I build.
+I'm a Software Engineer working at a product-based company, with 2 years of experience building core backend systems using Java and Spring Boot. I focus on designing scalable APIs, robust services, and reliable backend architecture.
 
 
 ## Projects
@@ -16,28 +16,15 @@ I build web apps, handle testing, and do security — all in one. Currently the 
 
 | Domain           | Technologies                                                                         |
 | ---------------- | ------------------------------------------------------------------------------------ |
-| **Frontend**     | React, Next.js, TypeScript, Tailwind CSS, Three.js, Framer Motion, GSAP, Material UI |
-| **Backend**      | Node.js, Express, REST API, JWT, OAuth, Docker                                       |
-| **Database**     | MongoDB, PostgreSQL, MySQL, Redis                                                    |
-| **Testing & QA** | Selenium, Cypress, Playwright, Rest Assured, Postman, Grafana k6, JMeter, Cucumber   |
-| **Security**     | Burp Suite, OWASP ZAP, Nikto, Kali Linux, Metasploit, Nmap                           |
+| **Frontend**     | HTML, CSS, ReactJS, NextJS, Redux, Tailwind CSS, ShadCN UI, Three.js                 |
+| **Language**     | Java, JavaScript, TypeScript, Python                                                 |
+| **Backend**      | Node.js, Express.js, Spring Boot, Maven, REST API, FastAPI                           |
+| **Database**     | MySQL, PostgreSQL, MongoDB, Redis                                                    |
+| **Testing**      | Selenium, Rest Assured, DBUnit, K6, Cucumber                                         |
+| **CI/CD**        | Git, GitHub, Bitbucket, Docker, Linux, Jenkins                                       |
+| **Security**     | OWASP ZAP, Nikto, Metasploit, Meterpreter                                            |
 
 ---
+## Note
 
-## Education
-
-🎓 Bachelor of Computer Application — Utkal University `May 2021 – May 2024`
-
-🎓 Master of Computer Application — KIIT `June 2024 – June 2026`
-
-💻 Full Stack Web Development — MASAI `June 2024 – December 2024`
-
-🧪 Software Development Engineering in Test — Udemy `January 2025 – June 2025`
-
-🔐 Ethical Hacking — Udemy `July 2026 – December 2026`
-
-## Connect
-
-📞 [7606939833](tel:7606939833)
-<br>
-📧 [gyanaprakashkhandual@gmail.com](mailto:gyanaprakashkhandual@gmail.com)
+Thanks for stopping by — always open to connecting and collaborating on interesting projects.
