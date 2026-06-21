@@ -2,7 +2,6 @@
 
 I build web apps, handle testing, and do security — all in one. Currently the sole SDET across 7 teams at Avidus Interactive. I ship AI tools, VS Code extensions, and production apps, and run pen testing and security checks on everything I build.
 
-<img src="https://res.cloudinary.com/dvytvjplt/image/upload/v1778168177/Gemini_Generated_Image_fm0ildfm0ildfm0i_hqtfib.png" alt="Banner" width="100%" style="border-radius: 6px;" />
 
 ## Projects
 
@@ -12,20 +11,6 @@ I build web apps, handle testing, and do security — all in one. Currently the 
 | **PISL Infra** | Full-stack testing framework + k6 SVG dashboards.                    | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/pisl)                 | NA     | Grafana, K6      |
 | **Cucumber**   | Cucumber step generator for VS Code — from feature file to steps.    | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/seleniumcucumber)     | 8000+  | TS               |
 | **Veloria**    | Accessible, themeable React UI components — free to use in react.    | [![Repo](https://img.shields.io/badge/Repo-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/gyanaprakashkhandual/veloria)              | 2,100+ | React, TS        |
-
-## Experience
-
-### Full Stack Web Developer & SDET — Avidus Interactive
-
-`January 2025 – Present` · Remote
-
-**Development**
-
-8+ production apps (React/Next.js/Node.js, REST APIs, CI/CD) → 50% faster deploys, 99% uptime. End-to-end UI/UX for web + mobile from zero.
-
-**Quality Assurance**
-
-Sole QA across 7 teams → zero complaints. UI/API automation → 50% faster testing, 99% release quality. 100+ production issues resolved in Agile/Jira.
 
 ## Skills
 
