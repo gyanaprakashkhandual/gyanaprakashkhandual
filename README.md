@@ -24,7 +24,6 @@ I'm a Software Engineer working at a product-based company, with 2 years of expe
 | **CI/CD**        | Git, GitHub, Bitbucket, Docker, Linux, Jenkins                                       |
 | **Security**     | OWASP ZAP, Nikto, Metasploit, Meterpreter                                            |
 
----
 ## Note
 
 Thanks for stopping by — always open to connecting and collaborating on interesting projects.
